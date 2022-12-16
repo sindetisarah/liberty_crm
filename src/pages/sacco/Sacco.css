@@ -1,0 +1,37 @@
+.table__nodetail{
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 30px 0px;
+}
+.td__status{
+    background-color: #F0F0F1;
+    padding: 6px 10px;
+}
+.icon--arrowback{
+    color: #9FA0AC;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 2px solid #9FA0AC;
+}
+.pagewrapper{
+    margin-top: 0px;
+    margin-bottom: 10px; 
+}
+.pagewrapper__subheader{
+    margin-top: 0px;
+}
+.pagewrapper__subheaderleft{
+    margin-top: 0px;
+}
+.flex__text{
+    margin-left: 15px;
+}
+.card--details{
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 1px #F2F2F1;
+}
+.card__cardheader{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}

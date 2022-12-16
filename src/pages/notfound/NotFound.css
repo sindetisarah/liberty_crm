@@ -1,0 +1,38 @@
+.page {
+    margin-top: 10px;
+}
+
+.container {
+    height: 80vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header1 {
+    text-align: center;
+    padding: 30px;
+    color: red;
+}
+
+.img1 {
+    max-height: 80%;
+    max-width: 100%;
+    background-color: #FFFFFF;
+}
+
+.img__footer {
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+
+.footer__link {
+    color: white;
+    font-size: 20px;
+    background-color: red;
+    padding: 5px 45px;
+    text-decoration: none;
+    border-radius: 8px;
+}

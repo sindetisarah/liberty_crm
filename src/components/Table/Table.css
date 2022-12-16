@@ -1,0 +1,15 @@
+.table--main{
+    width: 100%;
+}
+.table__thead{
+    font-size: 12px;
+}
+.tr__td{
+    width: 58;
+}
+.table__tbody{
+    width: 100%;
+}
+.tbody__tr{
+    height: 60px;
+}

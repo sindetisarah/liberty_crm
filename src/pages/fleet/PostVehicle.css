@@ -1,0 +1,56 @@
+/* Styling the container of the form */
+.container2 {
+    margin-left: 0.1%;
+    border: 0.1px solid black;
+    padding-left: 10%;
+    border-radius: 10px;
+    margin-top: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: ghostwhite;
+    border-color: transparent;
+    opacity: 90%;
+}
+
+/* styling the submit ticket button */
+#sbtTicket {
+    width: 20rem;
+    margin-bottom: 10px;
+
+}
+
+/* styling the from header */
+.formHeader {
+    border-radius: 10px;
+    margin-left: 1%;
+    height: 25%;
+}
+
+/* Styling the ticket heading */
+#raise_ticket_heading {
+    margin-left: 32%;
+    padding-top: 20px;
+    color: white;
+}
+
+.table__nodetail {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 30px 0px;
+}
+
+.td__status {
+    background-color: #F0F0F1;
+    padding: 6px 10px;
+}
+
+.formgroup__desc {
+    margin-top: 12px;
+}
+
+.description {
+    height: 150px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 1px #F3F2F1;
+}
